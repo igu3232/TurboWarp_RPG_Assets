@@ -1,0 +1,2 @@
+# TurboWarp_RPG_Assets
+同アカウントのTurboWarp_RPGで使用するアセット集です。
